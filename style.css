@@ -1,12 +1,20 @@
-.container{
-    margin: auto;
-    width: 60%;
-    border: 3px solid #73AD21;
-    padding: 10px;
+#spin {  
+  text-align: center;  
+  border: 1px solid green;  
+  width: 70px;  
+  height:50px;  
+  padding-top: 5px;
+  color:Green;
+  font-size:20px;
+  font-family:serif;
+
 }
-#value{
-    margin: auto;
-    width: 60%;
-    padding:9px;
+#canvas {
+  position:static;
+  top:50px;
+  bottom: 0;
+  left: 50px;
+  right:50px;
+  margin:auto;
 
 }
